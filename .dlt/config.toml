@@ -1,0 +1,6 @@
+[sources]
+api_path = "discovery/v2"
+
+[runtime]
+dlthub_telemetry = false
+
